@@ -13,7 +13,6 @@ Task manager allows setting tasks, assigning performers and changing their statu
 
 Task manager is also deployed on Heroku, so feel free to register and make experiments with it:
 
-https://task-manager-tragoedia.herokuapp.com/
 
 All possible errors and bugs will be sent to Rollbar automatically and fixed as soon as possible.
 
